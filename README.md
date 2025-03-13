@@ -10,7 +10,7 @@
 - **Tools & Platforms:** Git, GitHub, VS Code, Git Bash, Postman
 
 ## 📌 Featured Projects
-- **[smart-brain](https://github.com/Izzy-101/smart-brain)** - Smart-Brain uses Clarifai API to detect a face in an image.
+- **[smart-brain](https://github.com/Izzy-101/smart-brain)** - smart-brain uses Clarifai API to detect a face in an image.
 - **[smart-brain-api](https://github.com/Izzy-101/smart-brain-api)** - The backend for smart-brain, built with Node.js, Express, and PostgreSQL, handling user authentication and API requests.
 
 ## 📊 GitHub Stats
