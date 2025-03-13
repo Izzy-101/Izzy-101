@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Israa! 👋
 
-<!--
-**Izzy-101/Izzy-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building projects to strengthen my skills and showcase my work 🦾😁
+- 🌱 I’m currently learning about web development 💻
+- 🤔 I’m exploring job opportunities...any help? 👀
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js (basics), PostgreSQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Git Bash, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **[smart-brain](https://github.com/Izzy-101/smart-brain)** - Smart-Brain uses Clarifai API to detect a face in an image.
+- **[smart-brain-api](https://github.com/Izzy-101/smart-brain-api)** - The backend for smart-brain, built with Node.js, Express, and PostgreSQL, handling user authentication and API requests.
+
+## 📊 GitHub Stats
+![Israa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy-101&show_icons=true&theme=radical)
+
+Looking forward to connecting with fellow developers and learning new things. Let’s build together! 🤝
