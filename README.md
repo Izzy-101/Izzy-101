@@ -16,4 +16,7 @@
 ## 📊 GitHub Stats
 ![Israa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy-101&show_icons=true&theme=radical)
 
-Looking forward to connecting with fellow developers and learning new things. Let’s build together! 🤝
+## 📫 Connect with Me
+- **Portfolio:** [Coming Soon!]
+
+I am looking forward to connecting with fellow developers and learning new things. Let’s build together! 🤝
